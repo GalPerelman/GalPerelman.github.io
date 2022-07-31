@@ -2,7 +2,7 @@
 title: "Synthesizing water-related time series for simulation studies while maintaining the original signal’s statistical moments"
 collection: publications
 permalink: /publication/Synthesizing water-related time series for simulation studies while maintaining the original signal’s statistical moments
-date: 2022-04
+date: 2022-04-01
 venue: 'EGU General Assembly'
 paperurl: ''
 link: 'https://doi.org/10.5194/egusphere-egu22-8805'
