@@ -1,3 +1,4 @@
+---
 title: "Statistics for undergraduates (spring 2022)"
 collection: teaching
 #type: "Undergraduate course"
@@ -5,4 +6,4 @@ collection: teaching
 #venue: "Technion, Department"
 #date: Spring 2022
 #location: "City, Country"
-
+---
