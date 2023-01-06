@@ -7,6 +7,3 @@ venue: "Technion, Faculty of Civil and Environmental Engineering"
 date: 2022-10-01
 #location: "City, Country"
 ---
-
-Test - text in course info
-[Link text](files/cv.pdf)
